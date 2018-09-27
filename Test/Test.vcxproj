@@ -115,8 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Branche2 commit 1.cpp" />
     <ClCompile Include="Quelle.cpp" />
-    <ClCompile Include="sollte nur in Branch TestBranche1 vorkommen.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

@@ -18,7 +18,7 @@
     <ClCompile Include="Quelle.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="sollte nur in Branch TestBranche1 vorkommen.cpp">
+    <ClCompile Include="Branche2 commit 1.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
