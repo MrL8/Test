@@ -26,5 +26,8 @@
     <ClInclude Include="Header.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="neuer branch1 nach branch 2 hinzugefuegt.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
